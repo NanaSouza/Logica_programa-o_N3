@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 1 Logica da programação", "Aula 1 Logica da programação.csproj", "{E369AE5D-60A8-4D99-B5EC-2BB9DD9E050D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E369AE5D-60A8-4D99-B5EC-2BB9DD9E050D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E369AE5D-60A8-4D99-B5EC-2BB9DD9E050D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E369AE5D-60A8-4D99-B5EC-2BB9DD9E050D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E369AE5D-60A8-4D99-B5EC-2BB9DD9E050D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A83124AC-1A6A-44AD-9B38-0C313474F5AD}
+	EndGlobalSection
+EndGlobal
