@@ -1,0 +1,14 @@
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\bin\Debug\net8.0\Aula 1 Logica da programação.exe
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\bin\Debug\net8.0\Aula 1 Logica da programação.deps.json
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\bin\Debug\net8.0\Aula 1 Logica da programação.runtimeconfig.json
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\bin\Debug\net8.0\Aula 1 Logica da programação.dll
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\bin\Debug\net8.0\Aula 1 Logica da programação.pdb
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\obj\Debug\net8.0\Aula 1 Logica da programação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\obj\Debug\net8.0\Aula 1 Logica da programação.AssemblyInfoInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\obj\Debug\net8.0\Aula 1 Logica da programação.AssemblyInfo.cs
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\obj\Debug\net8.0\Aula 1 Logica da programação.csproj.CoreCompileInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\obj\Debug\net8.0\Aula 1 Logica da programação.dll
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\obj\Debug\net8.0\refint\Aula 1 Logica da programação.dll
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\obj\Debug\net8.0\Aula 1 Logica da programação.pdb
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\obj\Debug\net8.0\Aula 1 Logica da programação.genruntimeconfig.cache
+C:\Users\vivian.ssouza7\source\repos\Aula 1 Logica da programação\obj\Debug\net8.0\ref\Aula 1 Logica da programação.dll
