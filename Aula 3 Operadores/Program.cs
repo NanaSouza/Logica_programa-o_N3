@@ -23,53 +23,55 @@
 //Console.WriteLine(letraB + 0);
 
 
-Console.WriteLine("escreva seu nome.");
-string nomeUsuario = Console.ReadLine();
-Console.WriteLine("O seu nome é: " + nomeUsuario);
+//using System.Numerics;
+
+//Console.WriteLine("escreva seu nome.");
+//string nomeUsuario = Console.ReadLine();
+//Console.WriteLine("O seu nome é: " + nomeUsuario);
 
 
-Console.WriteLine("Em qual ano voce nasceu");
-String anoNascimentoUsuarioString = Console.ReadLine();
-int idadeUsuario = 2025 - int.Parse(anoNascimentoUsuarioString);
+//Console.WriteLine("Em qual ano voce nasceu");
+//String anoNascimentoUsuarioString = Console.ReadLine();
+//int idadeUsuario = 2025 - int.Parse(anoNascimentoUsuarioString);
 //Console.WriteLine("A sua idade é: " +  idadeUsuario);
 
 
-using System.Runtime.InteropServices;
+//using System.Runtime.InteropServices;
 
-int n1;
-int n2;
+//int n1;
+//int n2;
 
-Console.WriteLine("informe um numero inteiro:");
-n1 = int.Parse(Console.ReadLine());
+//Console.WriteLine("informe um numero inteiro:");
+//n1 = int.Parse(Console.ReadLine());
 
-Console.WriteLine("informe outro numero inteiro");
-n2 = int.Parse(Console.ReadLine());
+//Console.WriteLine("informe outro numero inteiro");
+//n2 = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Os numeros informados são: " + n1 + n2);
-
-
-
-string n1, n2;
-
-Console.WriteLine("informe um numero inteiro:");
-n1 = Console.ReadLine();
-Console.WriteLine("informe outro numero inteiro:");
-n2 = Console.ReadLine();
-
-int n1int = int.Parse(n1);
-int n2int = int.Parse(n2);
-int soma = n1int + n2int;
-
-Console.WriteLine("O resultado da soma é:" + soma);
+//Console.WriteLine("Os numeros informados são: " + n1 + n2);
 
 
 
+//string n1, n2;
 
-Console.WriteLine("informe um numero inteiro:");
-int n1 = int.Parse(Console.ReadLine));
-Console.WriteLine("informe outro numero inteiro");
-int n2 = int.Parse(Console.ReadLine());
-Console.WriteLine("o valor da subtração é:" + (n1 - n2));
+//Console.WriteLine("informe um numero inteiro:");
+//n1 = Console.ReadLine();
+//Console.WriteLine("informe outro numero inteiro:");
+//n2 = Console.ReadLine();
+
+//int n1int = int.Parse(n1);
+//int n2int = int.Parse(n2);
+//int soma = n1int + n2int;
+
+//Console.WriteLine("O resultado da soma é:" + soma);
+
+
+
+
+//Console.WriteLine("informe um numero inteiro:");
+//int n1 = int.Parse(Console.ReadLine));
+//Console.WriteLine("informe outro numero inteiro");
+//int n2 = int.Parse(Console.ReadLine());
+//Console.WriteLine("o valor da subtração é:" + (n1 - n2));
 
 
 
@@ -89,7 +91,14 @@ Console.WriteLine("o valor multiplicado é:" + n);
         Console.WriteLine("Informe o primeiro numero:");
         int n1 = int.Parse(Console.ReadLine());
 
-        Console.WriteLine(
+        Console.WriteLine("informe o segundo numero:");
+        int n2 = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("\nResultados:");
+        Console.WriteLine("soma:" + (n1 +  n2));
+        Console.WriteLine("Subtração:" + (n1 - n2));
+        Console.WriteLine("multiplicação:" + (n1 * n2));
+        Console.WriteLine("Divisão:" + ((Double)n1 / n2));
     }
 
 
