@@ -78,28 +78,28 @@
 
 
 
-Console.WriteLine("informe um numero");
-int n = int.Parse(Console.ReadLine());
-Console.WriteLine("informe outro numero");
-n *= int.Parse(Console.ReadLine());
-Console.WriteLine("o valor multiplicado é:" + n);
+//Console.WriteLine("informe um numero");
+//int n = int.Parse(Console.ReadLine());
+//Console.WriteLine("informe outro numero");
+//n *= int.Parse(Console.ReadLine());
+//Console.WriteLine("o valor multiplicado é:" + n);
 
 
-{
-    static void main()
-    {
-        Console.WriteLine("Informe o primeiro numero:");
-        int n1 = int.Parse(Console.ReadLine());
+//{
+//    static void main()
+//    {
+//        Console.WriteLine("Informe o primeiro numero:");
+//        int n1 = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("informe o segundo numero:");
-        int n2 = int.Parse(Console.ReadLine());
+//        Console.WriteLine("informe o segundo numero:");
+//        int n2 = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("\nResultados:");
-        Console.WriteLine("soma:" + (n1 +  n2));
-        Console.WriteLine("Subtração:" + (n1 - n2));
-        Console.WriteLine("multiplicação:" + (n1 * n2));
-        Console.WriteLine("Divisão:" + ((Double)n1 / n2));
-    }
+//        Console.WriteLine("\nResultados:");
+//        Console.WriteLine("soma:" + (n1 +  n2));
+//        Console.WriteLine("Subtração:" + (n1 - n2));
+//        Console.WriteLine("multiplicação:" + (n1 * n2));
+//        Console.WriteLine("Divisão:" + ((Double)n1 / n2));
+//    }
 
 
 
