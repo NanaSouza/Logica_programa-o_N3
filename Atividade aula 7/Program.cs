@@ -1,7 +1,6 @@
-﻿// Atividade 1
+﻿////Atividade 1
 
 //int numeroInteiro;
-
 //Console.WriteLine("Informe um numero inteiro");
 //const int dois = 2;
 //numeroInteiro = int.Parse(Console.ReadLine());
@@ -10,7 +9,7 @@
 
 
 
-// Atividade 2
+////Atividade 2
 
 //Console.WriteLine("Lado do Quadrado");
 //int Lado = int.Parse(Console.ReadLine());
@@ -18,7 +17,7 @@
 //Console.WriteLine("A Area do quadrado é:" + (Lado * Lado));
 //int area = Lado * Lado;
 
-//if (area > 1000) 
+//if (area > 1000)
 //{
 //    Console.WriteLine("Quadrado Grande");
 
@@ -30,23 +29,23 @@
 
 
 
-// Atividade 3
+////Atividade 3
 
-Console.WriteLine("Informe um numero inteiro");
-int n1 = int.Parse(Console.ReadLine());
+//Console.WriteLine("Informe um numero inteiro");
+//int n1 = int.Parse(Console.ReadLine());
 
 
-if (n1 == 0)
-{
-    Console.WriteLine("0 numero é neutro");
+//if (n1 == 0)
+//{
+//    Console.WriteLine("0 numero é neutro");
 
-}
-else if (n1 % 2 == 0)
-{
-    Console.WriteLine("numero" + n1 + "é par");
-}
-else
-{
-    Console.WriteLine("numero" + n1 + "é impar");
-}
+//}
+//else if (n1 % 2 == 0)
+//{
+//    Console.WriteLine("numero" + n1 + "é par");
+//}
+//else
+//{
+//    Console.WriteLine("numero" + n1 + "é impar");
+//}
 
