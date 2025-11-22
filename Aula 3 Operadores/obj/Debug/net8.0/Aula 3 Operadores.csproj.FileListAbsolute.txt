@@ -1,0 +1,15 @@
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\bin\Debug\net8.0\Aula 3 Operadores.exe
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\bin\Debug\net8.0\Aula 3 Operadores.deps.json
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\bin\Debug\net8.0\Aula 3 Operadores.runtimeconfig.json
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\bin\Debug\net8.0\Aula 3 Operadores.dll
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\bin\Debug\net8.0\Aula 3 Operadores.pdb
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\obj\Debug\net8.0\Aula 3 Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\obj\Debug\net8.0\Aula 3 Operadores.AssemblyInfoInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\obj\Debug\net8.0\Aula 3 Operadores.AssemblyInfo.cs
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\obj\Debug\net8.0\Aula 3 Operadores.csproj.CoreCompileInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\obj\Debug\net8.0\Aula 3 Operadores.dll
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\obj\Debug\net8.0\refint\Aula 3 Operadores.dll
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\obj\Debug\net8.0\Aula 3 Operadores.pdb
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\obj\Debug\net8.0\Aula 3 Operadores.genruntimeconfig.cache
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\obj\Debug\net8.0\ref\Aula 3 Operadores.dll
+C:\Users\vivian.ssouza7\source\repos\Aula 3 Operadores\obj\Debug\net8.0\Aula 3 Operadores.sourcelink.json
